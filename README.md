@@ -2,7 +2,7 @@
 
 ## 使用
 
-安装`Tampermonkey`，创建脚本，导入`main.py`内的内容
+安装`Tampermonkey`，创建脚本，导入`main.js`内的内容
 
 ## 功能
 
